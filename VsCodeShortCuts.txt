@@ -1,0 +1,11 @@
+# Keyboard Shortcuts:
+
+- Toggle UI Components: ctrl + b
+- Navigate The Files: ctrl + p
+- Scroll: ctrl + Up/Down arrow
+- Split Editor: ctrl + /
+- Insert New Line: ctrl + enter
+- Select all Matches: ctrl + shift + l
+- Select next Match: alt + d
+- Duplicate line: ctrl + d
+- 
